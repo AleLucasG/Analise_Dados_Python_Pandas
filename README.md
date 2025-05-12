@@ -26,3 +26,7 @@
 
 
 # Aula03: Trabalhando com datas
+![image](https://github.com/user-attachments/assets/bfdd3a1a-0fb8-4ac4-9451-3bf08796f946)
+
+![image](https://github.com/user-attachments/assets/c402ee7e-4d83-4116-9df3-5fe5ef0c97d2)
+
