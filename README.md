@@ -30,3 +30,4 @@
 
 ![image](https://github.com/user-attachments/assets/c402ee7e-4d83-4116-9df3-5fe5ef0c97d2)
 
+# Aula03: Vizualização de Dados
