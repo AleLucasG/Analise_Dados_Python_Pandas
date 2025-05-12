@@ -18,4 +18,11 @@
 
 # Aula02: Trabalhando com planilhas Excel
 
+![image](https://github.com/user-attachments/assets/ba5507b5-b205-488f-b6e4-f4fba2f76f45)
+
+![image](https://github.com/user-attachments/assets/718ce736-b3b5-462b-992c-eb87d05b450d)
+
+![image](https://github.com/user-attachments/assets/eef01f65-8e4e-4c67-aa68-35d146384fce)
+
+
 # Aula03: Trabalhando com datas
