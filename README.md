@@ -1,11 +1,25 @@
-# Analise_Dados_Python_Pandas
- Análise de dados com Python e Pandas
+# 📊 Analise_Dados_Python_Pandas
 
- Biblioteca Pandas, uma biblioteca Python de código aberto para análise de dados. 
- Ela dá ao Python a capacidade de trabalhar com dados do tipo planilha, permitindo carregar, manipular e combinar dados rapidamente, entre outras funções.
- Utilizando o Google Colab, um ambiente de desenvolvimento online e gratuito, baseado no navegador, que permite escrever e executar código Python.
+Este repositório contém materiais e exemplos práticos de **análise de dados utilizando Python e a biblioteca Pandas**, com apoio do ambiente online **Google Colab**.
 
-# Aula01: Introdução à Biblioteca Pandas
+## 📚 Sobre o Projeto
+
+O objetivo deste projeto é estudar e praticar o uso da biblioteca **Pandas**, uma poderosa ferramenta de código aberto desenvolvida em Python para **manipulação, análise e limpeza de dados estruturados**, como planilhas e tabelas.
+As aulas são realizadas no **Google Colab**, um ambiente gratuito baseado em nuvem que permite escrever e executar código Python diretamente no navegador, sem necessidade de configuração local.
+
+## 📦 Tecnologias utilizadas
+
+- Python 3
+- Pandas
+- Google Colab
+
+## 📘 Conteúdo
+
+### ✅ Aula 01: Introdução à Biblioteca Pandas
+- Conceitos básicos
+- Leitura de arquivos
+- Estrutura das `Series` e `DataFrames`
+  
 ![image](https://github.com/user-attachments/assets/eb30e886-0ca3-499c-837e-f8f4feb5e299)
 
 ![image](https://github.com/user-attachments/assets/7d6c2a1b-58f5-434d-b836-b0e00f50eaaf)
@@ -16,7 +30,10 @@
 
 ![image](https://github.com/user-attachments/assets/a33453fb-ef47-416e-8acb-ac4cd2e38e25)
 
-# Aula02: Trabalhando com planilhas Excel
+### ✅ Aula 02: Trabalhando com planilhas Excel
+- Leitura e escrita de arquivos `.xlsx`
+- Seleção de colunas
+- Filtros e manipulações básicas
 
 ![image](https://github.com/user-attachments/assets/ba5507b5-b205-488f-b6e4-f4fba2f76f45)
 
@@ -25,9 +42,15 @@
 ![image](https://github.com/user-attachments/assets/eef01f65-8e4e-4c67-aa68-35d146384fce)
 
 
-# Aula03: Trabalhando com datas
+### ✅ Aula 03: Trabalhando com datas
+- Conversão de colunas para tipo `datetime`
+- Extração de ano, mês e dia
+- Filtragem por data
+- 
 ![image](https://github.com/user-attachments/assets/bfdd3a1a-0fb8-4ac4-9451-3bf08796f946)
 
 ![image](https://github.com/user-attachments/assets/c402ee7e-4d83-4116-9df3-5fe5ef0c97d2)
 
-# Aula03: Vizualização de Dados
+### ✅ Aula 04: Visualização de Dados *(em andamento)*
+- Gráficos simples com Pandas e Matplotlib
+- Interpretação de resultados
