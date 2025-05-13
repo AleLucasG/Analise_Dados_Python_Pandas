@@ -55,8 +55,15 @@ As aulas são realizadas no **Google Colab**, um ambiente gratuito baseado em nu
 - Gráficos simples com Pandas e Matplotlib
 - Interpretação de resultados
 
-![image](https://github.com/user-attachments/assets/548546a5-b8c1-4706-9447-8c62dec3574e)
+![image](https://github.com/user-attachments/assets/9402023d-00c3-43cd-aa58-c25060f12fbb)
 
-![image](https://github.com/user-attachments/assets/5c77302a-9a82-4795-8e89-629490761077)
+![image](https://github.com/user-attachments/assets/0645452b-ffac-4e7f-a641-f28d6a22d294)
+
+![image](https://github.com/user-attachments/assets/3279c846-86f0-4c7e-94eb-5dddf8b4ba89)
+
+
+
+
+
 
 
