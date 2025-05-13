@@ -46,7 +46,7 @@ As aulas são realizadas no **Google Colab**, um ambiente gratuito baseado em nu
 - Conversão de colunas para tipo `datetime`
 - Extração de ano, mês e dia
 - Filtragem por data
-- 
+  
 ![image](https://github.com/user-attachments/assets/bfdd3a1a-0fb8-4ac4-9451-3bf08796f946)
 
 ![image](https://github.com/user-attachments/assets/c402ee7e-4d83-4116-9df3-5fe5ef0c97d2)
@@ -54,3 +54,9 @@ As aulas são realizadas no **Google Colab**, um ambiente gratuito baseado em nu
 ### ✅ Aula 04: Visualização de Dados *(em andamento)*
 - Gráficos simples com Pandas e Matplotlib
 - Interpretação de resultados
+
+![image](https://github.com/user-attachments/assets/548546a5-b8c1-4706-9447-8c62dec3574e)
+
+![image](https://github.com/user-attachments/assets/5c77302a-9a82-4795-8e89-629490761077)
+
+
