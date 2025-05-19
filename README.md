@@ -68,6 +68,7 @@ As aulas são realizadas no **Google Colab**, um ambiente gratuito baseado em nu
 
 ![image](https://github.com/user-attachments/assets/33ad3039-7e4d-49ff-8c04-3bbfe1ccd592)
 
+![image](https://github.com/user-attachments/assets/1c4a7e92-499d-4411-bfa4-6add42b748e7)
 
 
 ### ✅ Conclusão
