@@ -62,7 +62,7 @@ As aulas são realizadas no **Google Colab**, um ambiente gratuito baseado em nu
 ![image](https://github.com/user-attachments/assets/3279c846-86f0-4c7e-94eb-5dddf8b4ba89)
 
 
-### ✅ Aula 05: Analise Exploratoria (*em andamento*)
+### ✅ Aula 05: Analise Exploratoria
 
 ![image](https://github.com/user-attachments/assets/ccfa77a7-8232-478b-a6de-92d4e6f6db8a)
 
